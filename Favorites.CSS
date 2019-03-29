@@ -1,0 +1,22 @@
+/*
+* Meaghan O'Brien 
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: beige;
+}
+img {width: 1100px; height: 1500px;}
+#coffee {width: 100px; height: 100px;}
+#puppy {width: 200px; height: 200px;}
+#ireland {width: 300px; height: 300px;}
+figure { float: right;}
